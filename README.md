@@ -10,3 +10,7 @@ A sleek, EDC style case that provides waterproofing and and a housing for all co
 
 ### - Back Mounting Plate
 A flat, screw on back plate that allows the lights to be mounted on the wall and a stable overall design
+
+## Wiring Diagram
+
+![image](https://cdn.hackclub.com/01a02894-98c0-79b2-ad8a-10b95ed0a28e/Screenshot%202026-08-22%20182555.png)
