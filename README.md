@@ -9,7 +9,7 @@ A sleek minimalist set of 4 wall lights for my backyard at night! With soft diff
 A sleek, EDC style case that provides waterproofing and and a housing for all components, including a slanted top for solar panels and an angular design.
 
 ### - Back Mounting Plate
-A flat, screw on back plate that allows the lights to be mounted on the wall and a stable overall design
+A flat, screw on back plate that allows the lights to be mounted on the wall and provide a stable overall design.
 
 ## Wiring Diagram
 
